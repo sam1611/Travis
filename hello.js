@@ -1,10 +1,9 @@
-<!DOCTYPE HTML>
 <html>
 <head>
 <script>
 function myFunction()
 {
-alert(“Hello World!”)
+alert(“Hello Sameer Tanksale. You are Rockstar...!”)
 }
 </script>
 </head>
