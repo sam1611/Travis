@@ -4,4 +4,4 @@ python:
     - "3.4"
 
 script:
-    - sameer.py
+    - py.test
