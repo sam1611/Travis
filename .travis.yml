@@ -17,7 +17,6 @@ after_success:
 - git push origin master
 
 script:
-# - chmod u+x hello.js
 - node hello.js
 # - npm run coverage
 # - mv coverage/cobertura-coverage.xml shippable/codecoverage/coverage.xml
